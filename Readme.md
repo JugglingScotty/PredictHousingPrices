@@ -7,7 +7,7 @@ Forecast house prices using Python and Machine Learning
 
 Will measure model accuracy.  
 
-You'll need to download a few csv files to run this project. 
+You'll need to download a few csv files to run this project. They are in this directory.
 
 If you want to get newer versions:
 
