@@ -22,6 +22,6 @@ Federal reserve data
     ZHVI (raw, weekly) - Metro_zhvi_uc_sfrcondo_tier_0.33_0.67_month.csv
     Median sale price (raw, all homes,_ weekly) - Metro_median_sale_price_uc_sfrcondo_week.csv
 
-#Future Improvements
+# Future Improvements
 Next Steps to improve the model:
-* Continue to improve it.  
+-[ ] Continue to improve it.  
